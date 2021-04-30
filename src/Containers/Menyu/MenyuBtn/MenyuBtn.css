@@ -1,0 +1,57 @@
+.menyu-btn-wrapper {
+  display: inline-block;
+  text-align: center;
+}
+
+.menyu-btn {
+  width: 75px;
+  height: 75px;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.aqua {
+  background-color: #B6CAFB;
+}
+.aqua:hover {
+  background-color: #94abe6;
+}
+
+.coral {
+  background-color: #FF9E83;
+}
+.coral:hover {
+  background-color: #eb7e60;
+}
+
+.yellow {
+  background-color: #F7E233;
+}
+.yellow:hover {
+  background-color: #dbcb37;
+}
+
+.pinck {
+  background-color: #F6DAC2;
+}
+.pinck:hover {
+  background-color: #fcbeb6;
+}
+
+.aquamarine {
+  background-color: #B4E2E1;
+}
+.aquamarine:hover {
+  background-color: #6bddd9;
+}
+
+.menyu-title {
+  margin-top: 6px;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4A4A4A;
+}

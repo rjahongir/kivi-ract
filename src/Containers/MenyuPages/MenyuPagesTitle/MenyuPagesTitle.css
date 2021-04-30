@@ -1,0 +1,21 @@
+.product {
+  margin-right: 50px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  font-family: 'Nunito', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  color: #9B9B9B;
+
+}
+
+.active {
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 30px;
+  color: #4E72CA;
+  box-shadow: 0 19px 0 -15px #4E72CA;
+}

@@ -1,0 +1,42 @@
+.header_button-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header_btn {
+  padding: 0 15px;
+  font-family: 'Nunito', sans-serif;
+  font-style: normal;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.btn-language {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4A4A4A;
+}
+
+.btn-ru {
+  border-right: 1px solid #000;
+}
+
+.btn-input-output {
+  font-weight: 800;
+  font-size: 17px;
+  line-height: 21px;
+  color: #4E72CA;
+}
+
+.btn-exit {
+  margin-left: 40px;
+  border-right: 2px solid #4E72CA;
+}
+
+.activeHeader {
+  box-shadow: 0 10px 0 -8px #4E72CA;
+}

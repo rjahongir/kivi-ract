@@ -1,0 +1,50 @@
+.Announcements-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-top: 12px;
+} 
+
+.new-announcements-bottom {
+  position: relative;
+  top: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px 0;
+  margin-bottom: 60px;
+  background: rgba(182, 202, 251, 0.159986);
+  box-shadow: inset 0px 21px 13px rgba(182, 202, 251, 0.225402);
+}
+
+.project-hr{
+  display: block;
+  margin-top: 26px;
+  margin-bottom: 18px;
+  border: 1px solid rgba(182, 202, 251, 0.606827);
+  margin-bottom: 18px;
+}
+
+.strelka {
+  position: absolute;
+  left: 45%;
+  top: -10%;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 18px;
+  color: #4E72CA;
+}
+
+.household-product {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 25px;
+}
